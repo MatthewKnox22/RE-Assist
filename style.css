@@ -2,8 +2,14 @@
 
 /* Clean Hands */
 
-.cleanHands{
+#cleanHands{
     background-color: #104E8B;
-    color: #FFE3D2;
     text-align: center;
+    color: #EFF1F2;
+	height: 40px;
+	padding: 0px;
+    width: 100%;
+    display: block;
+    padding-left: 0px;
+    padding-right: 0px;
 }
